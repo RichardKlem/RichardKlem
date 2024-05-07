@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardKlem
-- 👀 I’m interested in all kinds of ML and smart web developement and practices. 
-- 🌱 I’m currently learning Bayesian probability models, NLP transformer based models and some other ML algos/models.
+- 👀 I’m interested in all kinds of ML but Computer Vision the most.
+- 🌱 I’m finishing my diploma thesis at the moment.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me: here on GitHub, LinkedIn.
 
