@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichardKlem
 - 👀 I’m interested in all kinds of ML but Computer Vision the most.
-- 🌱 I’m finishing my diploma thesis at the moment.
-- 💞️ I’m looking to collaborate on ML projects.
+- 🌱 I have finished my diploma thesis -- App Supporting Strength Sports Training using RTMPose models.
+- 💞️ I’m looking for collaboration on ML projects.
 - 📫 How to reach me: here on GitHub, LinkedIn.
 
 <!---
