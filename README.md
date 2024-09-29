@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @RichardKlem
-- 👀 I’m interested in all kinds of ML but Computer Vision the most.
-- 🌱 I have finished my diploma thesis -- App Supporting Strength Sports Training using RTMPose models.
-- 💞️ I’m looking for collaboration on ML projects.
-- 📫 How to reach me: here on GitHub, LinkedIn.
-
-<!---
-RichardKlem/RichardKlem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @RichardKlem, PhD student at [FIT BUT](https://www.fit.vut.cz/.en), member of [Graph@FIT](https://www.fit.vut.cz/research/group/graph/team/.en) research group.
+- 👀 I’m interested in Computer Vision overall but Human Pose Estimation tasks the most.
+- 🏋🏼‍♂️ I have finished my diploma thesis -- [App Supporting Strength Sports Training](https://www.vut.cz/en/students/final-thesis/detail/155096).
+    - Built using [RTMPose](https://arxiv.org/abs/2303.07399) models, grades A/A/A, production-ready version development in progress.
