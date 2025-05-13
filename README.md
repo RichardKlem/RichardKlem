@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RichardKlem, SW&ML engineer [@Vertice](https://www.vertice.one/), PhD student [@FIT BUT](https://www.fit.vut.cz/.en) (research group [Graph@FIT](https://www.fit.vut.cz/research/group/graph/team/.en))
+- 👋 Hi, I’m @RichardKlem, SW(with AI/ML overlap) engineer [@Vertice](https://www.vertice.one/), PhD student [@FIT BUT](https://www.fit.vut.cz/.en) (research group [Graph@FIT](https://www.fit.vut.cz/research/group/graph/team/.en))
 - 👀 I’m interested in Computer Vision as a whole. Human Pose Estimation tasks thrill me the most.
 - 🏋🏼‍♂️ In my free time, I am developing an [App Supporting Strength Sports Training](https://www.vut.cz/en/students/final-thesis/detail/155096).    
     - Android app written in Kotlin and server side written in Python using [RTMPose](https://arxiv.org/abs/2303.07399) models.
-    - Originally my diploma thesis (grades A/A/A).
     - Production-ready version ~ WIP, the most prominent goal is to transfer the whole HPE to mobile and introduce advanced calibration for monocular recordings.
     - It aligns with my PhD field of research. 🏛️
